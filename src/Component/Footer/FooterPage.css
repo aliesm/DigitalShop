@@ -1,0 +1,12 @@
+.exam{
+    position: absolute;
+    top: 51%;
+    margin-top: -8px;
+    content: "";
+    right: -7px;
+    width: 15px;
+    height: 16px;
+    background: #c83a3a;
+    transform: rotate(45deg);
+}
+

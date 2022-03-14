@@ -1,0 +1,37 @@
+.slick-prev,.slick-next{
+    padding: 6px;
+    width: 2vw;
+    height: 2vw;
+    cursor: pointer;
+    border: none;
+    border-radius: 5vw;
+    background-color: #fff;
+    z-index: 99 !important;
+    box-shadow: rgb(35 35 35 / 50%) 0px 0px 20px 5px;
+    top: 40%;
+}
+
+.slick-prev {
+    left: -12px;
+}
+
+.slick-next {
+    right: -12px;
+}
+
+ /* .Carddd{
+    width: 210px;
+    height: 330px;
+    margin-bottom: 5px;
+} */
+
+/* .cardimg{
+    width: 205px;
+    height: 165px;
+}  */
+
+
+.card{
+    height: 340px;
+    margin-bottom: 5px;
+}

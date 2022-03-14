@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "BYekan";
+    src: url("../fonts/BYekan-webfont.eot") format("eot"),
+        url("../fonts/BYekan-webfont.woff") format("woff"),
+        url("../fonts/BYekan-webfont.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "iranSance" ;
+    src: url("../fonts/IRANSans\(FaNum\)_Light.ttf") format("truetype");
+}
+
+
+@font-face {
+    font-family: "iranSance1" ;
+    src: url("../fonts/IRANSans\(FaNum\)_Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "iranSance2" ;
+    src: url("../fonts/IRANSansWeb\(FaNum\)_Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "iranSance3" ;
+    src: url("../fonts/IRANSansWeb\(FaNum\).ttf") format("truetype");
+}

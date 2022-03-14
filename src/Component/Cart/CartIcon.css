@@ -1,0 +1,29 @@
+
+.CartIcon{
+    margin-top: 19px;
+    float: left;
+    margin-left: 30px;
+    cursor: pointer;
+    position: relative;
+}
+
+
+.plus{
+        font-size: 14px;
+        line-height: 14px;
+        overflow: hidden;
+        padding: 0;
+        text-align: center; 
+}
+
+.plus i{
+    color: #777;
+    margin: 0;
+    position: relative;
+    top: 0px;
+}
+
+.quantity{
+    margin: 10px;
+}
+

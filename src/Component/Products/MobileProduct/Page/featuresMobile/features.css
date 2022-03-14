@@ -1,0 +1,52 @@
+
+.category_features {
+  margin-top: 15px;
+}
+
+.category_features h3 {
+  margin: 0 0 10px;
+  color: #2196f3;
+  font-size: 16px;
+  float: right;
+}
+
+.category_features h3::after {
+  font-family: "FontAwesome";
+  content: "\f0d9";
+  margin-left: 6px;
+  position: relative;
+  top: 2px;
+}
+
+.inner_features {
+  border-spacing: 5px;
+  display: table;
+  width: 100%;
+}
+
+.inner_features .features {
+  background: none repeat scroll 0 0 #f1ebeb;
+  display: table-row;
+  width: 100%;
+}
+
+.features_name {
+  background: none repeat scroll 0 0 #cecbcb;
+  display: table-cell;
+  line-height: 23px;
+  padding: 8px;
+  text-align: right;
+  vertical-align: middle;
+  width: 25%;
+}
+
+.features_value {
+  display: table-cell;
+  line-height: 23px;
+  padding: 2px 5px;
+  text-shadow: 0 1px 1px #ffffff;
+  vertical-align: middle;
+  white-space: pre-line;
+  width: 75%;
+  text-align: right;
+}

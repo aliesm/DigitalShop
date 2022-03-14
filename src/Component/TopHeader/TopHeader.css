@@ -1,0 +1,25 @@
+
+.btncol .btn{
+    margin-top: 18px;
+}
+
+
+.btncolCart{
+    margin-top: 30px;
+    float: left;
+}
+
+.loginbtn{
+    margin-right: 100px;
+}
+
+/* .topHeaderContainer{
+    background-color: rgb(216, 216, 216);
+    box-shadow: aliceblue 20px;
+} */
+
+/* .input-group.md-form.form-sm.form-1 input {
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+  } */

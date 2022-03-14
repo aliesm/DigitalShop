@@ -1,0 +1,166 @@
+/* .navbarss {
+  direction: rtl;
+  text-align: right;
+}
+
+.navMenu {
+  background-color: aqua;
+  min-width: calc(100vh - 138px);
+
+}
+
+.menu{
+}
+
+ul.menu li {
+  display: inline-block;
+  list-style: none;
+  z-index: 20;
+}
+
+ul.menu li a {
+  display: flex;
+  padding: 12px;
+  color: rgb(46, 44, 44);
+  text-decoration: none;
+}
+
+ul.submenu {
+  display: none;
+}
+
+ul.menu li i {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+ul.menu li a {
+  display: inline-block;
+  padding: 12px;
+  color: rgb(51, 49, 49);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+ul.menu li a:hover {
+  background: red;
+}
+
+ul.menu li:hover ul.submenu {
+  display: block;
+  background: #a2a2a2;
+  width: 280px;
+}
+ul.submenu li {
+  display: block;
+  border-bottom: 1px solid #fff;
+}
+
+ul.submenu {
+  display: none;
+  width: 160px;
+  position: absolute;
+  top: 42px;
+  background: #a2a2a2;
+}
+ul.submenu li {
+  display: block;
+  border-bottom: 1px solid #fff;
+}
+ul.submenu li a {
+  display: block;
+}
+ul.menu li:hover ul.submenu {
+  display: block;
+  background: #a2a2a2;
+}
+
+ul.menu li {
+  display: inline-block;
+  list-style: none;
+  transition: all 0.4s;
+  position: relative;
+} */
+
+/* ul li ul {
+  display: none;
+}
+
+ul li:hover ul {
+  display: block;
+}
+ul {
+  position: relative;
+}
+
+ul li {
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  float: right;
+  width: auto;
+  position: relative;
+  height: 40px;
+}
+
+ul li {
+  float: right;
+  font-family: "yekan";
+  display: inline-block;
+}
+
+ul li a {
+  padding: 5px 18px 0px 10px;
+  font: 15px "Yekan";
+  font-weight: bold;
+  color: #323232;
+  max-height: 33px;
+  margin-top: 3px;
+  line-height: 0px;
+  display: inline-block;
+}
+
+ul li ul {
+  display: none;
+  padding: 0;
+  margin: 5px;
+  position: absolute;
+  transition: all 0.5s ease 0s;
+  visibility: hidden;
+  width: 150px;
+  z-index: 1;
+  margin-right: -10px;
+}
+
+ul li ul li {
+  width: 150px;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  background-color: #dcedc8;
+  border: 1px solid #bdbdbd;
+  opacity: 0.85;
+}
+
+ul li ul li:hover {
+  width: 150px;
+  border: 1px solid #ffc107;
+  background-color: #ffc107;
+}
+
+ul li:hover ul {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}
+
+ul li ul li a {
+  color: #000000;
+  width: 150px;
+  text-align: center;
+  padding: 15px;
+} */

@@ -1,0 +1,43 @@
+.List-Group{
+    list-style: none;
+    margin: 0 ;
+    padding: 0;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+    background-color: #f1f1f1;
+    direction: rtl;
+    box-shadow: 0 5px 8px rgb(0 0 0 / 12%);
+}
+.List-Group li {
+    line-height:30px;
+    border-top: 1px solid #ccc;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.List-Group li:hover{
+    /* transform: scale(1.05); */
+    transform: scale(1.01);
+}
+
+.List-Group li:first-child{
+ border-top: 0;
+}
+
+.List-Group li i{
+    color: #c83a3a;
+    margin-left: 5px;
+    width: 32px;
+    height: 32px;
+    background-color: white;
+    text-align: center;
+    padding: 7px;
+    font-size: 20px;
+    border-radius: 75px;
+}
+
+.List-Group li i:hover{
+  color: rgb(95, 91, 91);
+}
